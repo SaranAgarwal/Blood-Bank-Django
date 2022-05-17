@@ -1,0 +1,1 @@
+web unicorn bloodbankmanagement.wsgi:application --log-file -
